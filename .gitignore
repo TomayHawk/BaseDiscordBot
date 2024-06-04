@@ -1,0 +1,6 @@
+commands
+node_modules
+.env
+.eslintrc.json
+config.json
+eslint.config.mjs
