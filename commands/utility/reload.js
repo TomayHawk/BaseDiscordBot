@@ -1,3 +1,5 @@
+/* eslint @typescript-eslint/no-var-requires: "off" */
+
 const { SlashCommandBuilder } = require('discord.js');
 
 module.exports = {
